@@ -1,0 +1,3 @@
+c:\Users\清涩\Desktop\Time order\Time\Time\bin\Release\net40\publish\Time.exe
+c:\Users\清涩\Desktop\Time order\Time\Time\bin\Release\net40\publish\Time.exe.config
+c:\Users\清涩\Desktop\Time order\Time\Time\bin\Release\net40\publish\Time.pdb

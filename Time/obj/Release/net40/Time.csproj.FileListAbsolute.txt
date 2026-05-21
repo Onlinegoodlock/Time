@@ -1,0 +1,12 @@
+c:\Users\清涩\Desktop\Time order\Time\Time\bin\Release\net40\Time.exe.config
+c:\Users\清涩\Desktop\Time order\Time\Time\bin\Release\net40\Time.exe
+c:\Users\清涩\Desktop\Time order\Time\Time\bin\Release\net40\Time.pdb
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.csproj.AssemblyReference.cache
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.Form1.resources
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.csproj.GenerateResource.cache
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.AssemblyInfoInputs.cache
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.AssemblyInfo.cs
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.csproj.CoreCompileInputs.cache
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.exe
+c:\Users\清涩\Desktop\Time order\Time\Time\obj\Release\net40\Time.pdb
